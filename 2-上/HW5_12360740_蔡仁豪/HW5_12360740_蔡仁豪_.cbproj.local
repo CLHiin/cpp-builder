@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/01 18:18:46.000.191,=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/12/01 18:18:46.000.513,=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/12/01 18:18:55.000.111,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.h=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪.h</Transaction>
+    <Transaction>2024/12/01 18:18:55.000.111,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪.dfm</Transaction>
+    <Transaction>2024/12/01 18:18:55.000.111,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪.cpp</Transaction>
+    <Transaction>2024/12/01 18:19:05.000.076,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪_.cbproj</Transaction>
+    <Transaction>2024/12/01 18:19:05.000.064,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪_PCH1.h</Transaction>
+    <Transaction>2024/12/25 19:57:18.000.712,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW4_12360740_蔡仁豪.dfm=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW5_12360740_蔡仁豪.dfm</Transaction>
+    <Transaction>2024/12/25 19:57:18.000.712,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW4_12360740_蔡仁豪.cpp=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW5_12360740_蔡仁豪.cpp</Transaction>
+    <Transaction>2024/12/25 19:57:18.000.712,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW4_12360740_蔡仁豪.h=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW5_12360740_蔡仁豪.h</Transaction>
+    <Transaction>2024/12/25 19:57:22.000.625,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW4_12360740_蔡仁豪_PCH1.h=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW5_12360740_蔡仁豪_PCH1.h</Transaction>
+    <Transaction>2024/12/25 19:57:26.000.819,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW4_12360740_蔡仁豪_.cbproj=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW5_12360740_蔡仁豪\HW5_12360740_蔡仁豪_.cbproj</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="HW5_12360740_蔡仁豪.cpp"/>
+    <File Path="HW5_12360740_蔡仁豪.cpp"/>
+    <File Path="HW5_12360740_蔡仁豪.dfm"/>
+    <File Path="HW5_12360740_蔡仁豪.h"/>
+    <File Path="HW5_12360740_蔡仁豪_.cpp"/>
+    <File Path="HW5_12360740_蔡仁豪_PCH1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

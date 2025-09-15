@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/01 18:18:46.000.191,=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/12/01 18:18:46.000.513,=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/12/01 18:18:55.000.111,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪.h=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/12/01 18:18:55.000.111,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪.cpp=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/12/01 18:18:55.000.111,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪.dfm=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/12/01 18:19:05.000.064,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪_PCH1.h=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/12/01 18:19:05.000.076,C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\HW4_12360740_蔡仁豪\HW4_12360740_蔡仁豪_.cbproj=C:\Users\iin75\OneDrive\文件\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
